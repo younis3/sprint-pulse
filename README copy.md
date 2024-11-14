@@ -1,2 +1,0 @@
-# sprint-pulse
-# sprint-pulse
