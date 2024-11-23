@@ -11,7 +11,7 @@ export default {
     extend: {
       colors: {
         white: "#ffffff",
-        gray:{
+        gray: {
           100: "#f3f4f6",
           200: "#e5e7eb",
           300: "#d1d5db",
@@ -19,12 +19,13 @@ export default {
           700: "#374151",
           800: "#1f2937",
         },
-        blue:{
+        blue: {
           200: "#93c5fd",
           400: "#60a5fa",
           500: "#3b82f6",
         },
-        "dark-bg": "#101214",
+        "dark-bg": "#333333",
+        // "dark-bg": "#101214",
         "dark-secondary": "#1d1f21",
         "dark-tertiary": "#3b3d40",
         "blue-primary": "#0275ff",
